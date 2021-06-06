@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🥺 Lost last account
 - 🌱 I’m currently learning React , AWS
-- 📫 Reachme through 👉 bajajkhushboo32@gmail.com
+- 📫 Reach me through 👉 bajajkhushboo32@gmail.com
 
 <!---
 bajajlkhushboo/bajajlkhushboo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
